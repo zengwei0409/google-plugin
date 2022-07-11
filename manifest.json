@@ -1,0 +1,11 @@
+{
+    "name": "chrome-plugin-demo",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "/images/icon_google.png",
+        "default_title": "11--demo",
+        "default_popup": "popup.html"
+    }
+}
